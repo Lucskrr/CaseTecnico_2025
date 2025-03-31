@@ -1,0 +1,7 @@
+Interface: Uma interface é como um contrato que define um conjunto de métodos que devem ser implementados pelas classes. Cada classe que implementa a interface tem liberdade para definir como esses métodos irão funcionar, mas precisa cumprir o "contrato" estabelecido pela interface. Ou seja, ela garante que a classe tenha os métodos definidos, mas a implementação é flexível.
+
+Classe: Uma classe é a estrutura que define os atributos (dados) e os métodos (comportamentos) que os objetos dessa classe terão. A classe funciona como um molde, especificando o que os objetos criados a partir dela poderão fazer.
+
+Objeto: Um objeto ou entidade é uma instância de uma classe. Quando instanciamos uma classe, estamos criando um objeto com dados reais, ou seja, dando "vida" ao objeto, tornando-o um caso concreto daquela classe. Cada objeto pode ter seus próprios valores para os atributos definidos na classe.
+
+Instância: A instância é o processo de criar um objeto ou entidade a partir de uma classe. Quando você "instancia" uma classe, você cria uma instância (ou um objeto) dessa classe.
