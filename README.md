@@ -1,0 +1,1 @@
+# CaseTecnico_2025
